@@ -1,0 +1,12 @@
+[||Compilation Report||Analysis & Synthesis||Connectivity Checks||Port Connectivity Checks: "armreduced:arm_cpu|EX_stage:_EX_stage"]
+COLUMN_WIDTHS=129L,54L,43L,393L,
+OUTPUT_SECTION=1
+PAGE_ORIENTATION=0
+[||Compilation Report||Analysis & Synthesis||Connectivity Checks||Port Connectivity Checks: "armreduced:arm_cpu|ID_EX_Register:_ID_EX_Register"]
+COLUMN_WIDTHS=79L,38L,52L,393L,
+OUTPUT_SECTION=1
+PAGE_ORIENTATION=0
+[||Compilation Report||Analysis & Synthesis||Connectivity Checks||Port Connectivity Checks: "miniUART:UART"]
+COLUMN_WIDTHS=76L,38L,52L,111L,
+OUTPUT_SECTION=1
+PAGE_ORIENTATION=0
